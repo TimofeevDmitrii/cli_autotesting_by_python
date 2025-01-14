@@ -1,0 +1,89 @@
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox sshd[5102]: Accepted password for user_test from 127.0.0.1 port 52260 ssh2
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox sshd[5102]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 41 of user user_test.
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 41 at /org/freedesktop/login1/session/_341
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 41 of User user_test.
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox sshd[5102]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox systemd[1]: session-41.scope: Deactivated successfully.
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 41 logged out. Waiting for processes to exit.
+дек 23 07:21:55 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 41.
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox sshd[5142]: Accepted password for user_test from 127.0.0.1 port 52264 ssh2
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox sshd[5142]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 42 of user user_test.
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 42 at /org/freedesktop/login1/session/_342
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 42 of User user_test.
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox sshd[5142]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox systemd[1]: session-42.scope: Deactivated successfully.
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 42 logged out. Waiting for processes to exit.
+дек 23 07:21:56 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 42.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox sshd[5181]: Accepted password for user_test from 127.0.0.1 port 52272 ssh2
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox sshd[5181]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 43 of user user_test.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 43 at /org/freedesktop/login1/session/_343
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 43 of User user_test.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox sshd[5181]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd[1]: session-43.scope: Deactivated successfully.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 43 logged out. Waiting for processes to exit.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 43.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox sshd[5222]: Accepted password for user_test from 127.0.0.1 port 52282 ssh2
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox sshd[5222]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 44 of user user_test.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 44 of User user_test.
+дек 23 07:21:57 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 44 at /org/freedesktop/login1/session/_344
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox sshd[5222]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox systemd[1]: session-44.scope: Deactivated successfully.
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 44 logged out. Waiting for processes to exit.
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 44.
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox sshd[5262]: Accepted password for user_test from 127.0.0.1 port 52292 ssh2
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox sshd[5262]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 45 of user user_test.
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 45 at /org/freedesktop/login1/session/_345
+дек 23 07:21:58 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 45 of User user_test.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox sshd[5262]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 45 logged out. Waiting for processes to exit.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd[1]: session-45.scope: Deactivated successfully.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 45.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox sshd[5301]: Accepted password for user_test from 127.0.0.1 port 52308 ssh2
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox sshd[5301]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 46 of user user_test.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 46 at /org/freedesktop/login1/session/_346
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 46 of User user_test.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox sshd[5301]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd[1]: session-46.scope: Deactivated successfully.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 46 logged out. Waiting for processes to exit.
+дек 23 07:21:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 46.
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox sshd[5342]: Accepted password for user_test from 127.0.0.1 port 52322 ssh2
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox sshd[5342]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 47 of user user_test.
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 47 of User user_test.
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 47 at /org/freedesktop/login1/session/_347
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox sshd[5342]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox systemd[1]: session-47.scope: Deactivated successfully.
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 47 logged out. Waiting for processes to exit.
+дек 23 07:22:00 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 47.
+дек 23 07:22:01 kojedubkojedubovich-VirtualBox sshd[5381]: Accepted password for user_test from 127.0.0.1 port 52336 ssh2
+дек 23 07:22:01 kojedubkojedubovich-VirtualBox sshd[5381]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:22:01 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 48 of user user_test.
+дек 23 07:22:01 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 48 at /org/freedesktop/login1/session/_348
+дек 23 07:22:01 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 48 of User user_test.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd-resolved[466]: Clock change detected. Flushing caches.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox sshd[5381]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd[1]: session-48.scope: Deactivated successfully.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 48 logged out. Waiting for processes to exit.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd[1]: session-48.scope: Consumed 3.057s CPU time.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 48.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox sshd[5423]: Accepted password for user_test from 127.0.0.1 port 49600 ssh2
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox sshd[5423]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 49 of user user_test.
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 49 at /org/freedesktop/login1/session/_349
+дек 23 07:22:04 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 49 of User user_test.
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox sshd[5423]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox systemd[1]: session-49.scope: Deactivated successfully.
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 49 logged out. Waiting for processes to exit.
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 49.
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox sshd[5463]: Accepted password for user_test from 127.0.0.1 port 49616 ssh2
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox sshd[5463]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 50 of user user_test.
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 50 at /org/freedesktop/login1/session/_350
+дек 23 07:22:05 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 50 of User user_test.
+

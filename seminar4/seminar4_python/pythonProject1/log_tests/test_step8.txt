@@ -1,0 +1,24 @@
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox sshd[13351]: Accepted password for user_test from 127.0.0.1 port 45334 ssh2
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox sshd[13351]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 241 of user user_test.
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 241 of User user_test.
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 241 at /org/freedesktop/login1/session/_3241
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox sshd[13351]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox systemd[1]: session-241.scope: Deactivated successfully.
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 241 logged out. Waiting for processes to exit.
+дек 23 07:31:02 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 241.
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox sshd[13391]: Accepted password for user_test from 127.0.0.1 port 53842 ssh2
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox sshd[13391]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 242 of user user_test.
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 242 at /org/freedesktop/login1/session/_3242
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 242 of User user_test.
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox sshd[13391]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox systemd[1]: session-242.scope: Deactivated successfully.
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 242 logged out. Waiting for processes to exit.
+дек 23 07:31:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 242.
+дек 23 07:31:06 kojedubkojedubovich-VirtualBox sshd[13430]: Accepted password for user_test from 127.0.0.1 port 53844 ssh2
+дек 23 07:31:06 kojedubkojedubovich-VirtualBox sshd[13430]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:06 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 243 of user user_test.
+дек 23 07:31:06 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 243 at /org/freedesktop/login1/session/_3243
+дек 23 07:31:06 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 243 of User user_test.
+

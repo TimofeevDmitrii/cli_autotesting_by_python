@@ -1,0 +1,44 @@
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox sshd[13994]: Accepted password for user_test from 127.0.0.1 port 32914 ssh2
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox sshd[13994]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 257 of user user_test.
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 257 at /org/freedesktop/login1/session/_3257
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 257 of User user_test.
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox sshd[13994]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 257 logged out. Waiting for processes to exit.
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox systemd[1]: session-257.scope: Deactivated successfully.
+дек 23 07:31:22 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 257.
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox sshd[14035]: Accepted password for user_test from 127.0.0.1 port 40738 ssh2
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox sshd[14035]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 258 of user user_test.
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 258 of User user_test.
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 258 at /org/freedesktop/login1/session/_3258
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox sudo[14075]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -r p7zip-full
+дек 23 07:31:24 kojedubkojedubovich-VirtualBox sudo[14075]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:31:32 kojedubkojedubovich-VirtualBox sudo[14075]: pam_unix(sudo:session): session closed for user root
+дек 23 07:31:32 kojedubkojedubovich-VirtualBox sshd[14035]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:31:32 kojedubkojedubovich-VirtualBox systemd[1]: session-258.scope: Deactivated successfully.
+дек 23 07:31:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 258 logged out. Waiting for processes to exit.
+дек 23 07:31:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 258.
+дек 23 07:31:33 kojedubkojedubovich-VirtualBox sshd[14088]: Accepted password for user_test from 127.0.0.1 port 32790 ssh2
+дек 23 07:31:33 kojedubkojedubovich-VirtualBox sshd[14088]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:33 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 259 of user user_test.
+дек 23 07:31:33 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 259 of User user_test.
+дек 23 07:31:33 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 259 at /org/freedesktop/login1/session/_3259
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox systemd-resolved[466]: Clock change detected. Flushing caches.
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox systemd[1]: Started Run anacron jobs.
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox anacron[14129]: Anacron 2.3 started on 2024-12-23
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox anacron[14129]: Normal exit (0 jobs run)
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox systemd[1]: anacron.service: Deactivated successfully.
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox sudo[14128]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+дек 23 07:31:34 kojedubkojedubovich-VirtualBox sudo[14128]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:31:35 kojedubkojedubovich-VirtualBox sudo[14128]: pam_unix(sudo:session): session closed for user root
+дек 23 07:31:35 kojedubkojedubovich-VirtualBox sshd[14088]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:31:35 kojedubkojedubovich-VirtualBox systemd[1]: session-259.scope: Deactivated successfully.
+дек 23 07:31:35 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 259 logged out. Waiting for processes to exit.
+дек 23 07:31:35 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 259.
+дек 23 07:31:36 kojedubkojedubovich-VirtualBox sshd[14131]: Accepted password for user_test from 127.0.0.1 port 32794 ssh2
+дек 23 07:31:36 kojedubkojedubovich-VirtualBox sshd[14131]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:31:36 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 260 of user user_test.
+дек 23 07:31:36 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 260 of User user_test.
+дек 23 07:31:36 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 260 at /org/freedesktop/login1/session/_3260
+

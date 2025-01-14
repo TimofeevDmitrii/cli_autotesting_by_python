@@ -1,0 +1,39 @@
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox sshd[8597]: Accepted password for user_test from 127.0.0.1 port 58792 ssh2
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox sshd[8597]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 128 of user user_test.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 128 at /org/freedesktop/login1/session/_3128
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 128 of User user_test.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox sshd[8597]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd[1]: session-128.scope: Deactivated successfully.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 128 logged out. Waiting for processes to exit.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 128.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox sshd[8638]: Accepted password for user_test from 127.0.0.1 port 58800 ssh2
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox sshd[8638]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 129 of user user_test.
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 129 at /org/freedesktop/login1/session/_3129
+дек 23 07:23:28 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 129 of User user_test.
+дек 23 07:23:29 kojedubkojedubovich-VirtualBox sudo[8678]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -r p7zip-full
+дек 23 07:23:29 kojedubkojedubovich-VirtualBox sudo[8678]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:23:31 kojedubkojedubovich-VirtualBox sudo[8678]: pam_unix(sudo:session): session closed for user root
+дек 23 07:23:31 kojedubkojedubovich-VirtualBox sshd[8638]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:23:31 kojedubkojedubovich-VirtualBox systemd[1]: session-129.scope: Deactivated successfully.
+дек 23 07:23:31 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 129 logged out. Waiting for processes to exit.
+дек 23 07:23:31 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 129.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sshd[8690]: Accepted password for user_test from 127.0.0.1 port 58814 ssh2
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sshd[8690]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 130 of user user_test.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 130 at /org/freedesktop/login1/session/_3130
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 130 of User user_test.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sudo[8731]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sudo[8731]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sudo[8731]: pam_unix(sudo:session): session closed for user root
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sshd[8690]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 130 logged out. Waiting for processes to exit.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd[1]: session-130.scope: Deactivated successfully.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 130.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sshd[8733]: Accepted password for user_test from 127.0.0.1 port 58826 ssh2
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox sshd[8733]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 131 of user user_test.
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 131 at /org/freedesktop/login1/session/_3131
+дек 23 07:23:32 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 131 of User user_test.
+

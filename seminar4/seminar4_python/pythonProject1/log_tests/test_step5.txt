@@ -1,0 +1,90 @@
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox sshd[11138]: Accepted password for user_test from 127.0.0.1 port 40008 ssh2
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox sshd[11138]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 185 of user user_test.
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 185 at /org/freedesktop/login1/session/_3185
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 185 of User user_test.
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox sshd[11138]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox systemd[1]: session-185.scope: Deactivated successfully.
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 185 logged out. Waiting for processes to exit.
+дек 23 07:29:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 185.
+дек 23 07:30:00 kojedubkojedubovich-VirtualBox sshd[11177]: Accepted password for user_test from 127.0.0.1 port 40020 ssh2
+дек 23 07:30:00 kojedubkojedubovich-VirtualBox sshd[11177]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:00 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 186 of user user_test.
+дек 23 07:30:00 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 186 at /org/freedesktop/login1/session/_3186
+дек 23 07:30:00 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 186 of User user_test.
+дек 23 07:30:01 kojedubkojedubovich-VirtualBox sshd[11177]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:01 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 186 logged out. Waiting for processes to exit.
+дек 23 07:30:01 kojedubkojedubovich-VirtualBox systemd[1]: session-186.scope: Deactivated successfully.
+дек 23 07:30:01 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 186.
+дек 23 07:30:02 kojedubkojedubovich-VirtualBox CRON[11223]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+дек 23 07:30:02 kojedubkojedubovich-VirtualBox CRON[11224]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+дек 23 07:30:02 kojedubkojedubovich-VirtualBox CRON[11223]: pam_unix(cron:session): session closed for user root
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox sshd[11219]: Accepted password for user_test from 127.0.0.1 port 37118 ssh2
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox sshd[11219]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 188 of user user_test.
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 188 at /org/freedesktop/login1/session/_3188
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 188 of User user_test.
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox sshd[11219]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox systemd[1]: session-188.scope: Deactivated successfully.
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 188 logged out. Waiting for processes to exit.
+дек 23 07:30:03 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 188.
+дек 23 07:30:04 kojedubkojedubovich-VirtualBox sshd[11261]: Accepted password for user_test from 127.0.0.1 port 37124 ssh2
+дек 23 07:30:04 kojedubkojedubovich-VirtualBox sshd[11261]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 189 of user user_test.
+дек 23 07:30:04 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 189 of User user_test.
+дек 23 07:30:04 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 189 at /org/freedesktop/login1/session/_3189
+дек 23 07:30:05 kojedubkojedubovich-VirtualBox sshd[11261]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 189 logged out. Waiting for processes to exit.
+дек 23 07:30:05 kojedubkojedubovich-VirtualBox systemd[1]: session-189.scope: Deactivated successfully.
+дек 23 07:30:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 189.
+дек 23 07:30:06 kojedubkojedubovich-VirtualBox sshd[11302]: Accepted password for user_test from 127.0.0.1 port 37126 ssh2
+дек 23 07:30:06 kojedubkojedubovich-VirtualBox sshd[11302]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:06 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 190 of user user_test.
+дек 23 07:30:06 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 190 of User user_test.
+дек 23 07:30:06 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 190 at /org/freedesktop/login1/session/_3190
+дек 23 07:30:07 kojedubkojedubovich-VirtualBox sshd[11302]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:07 kojedubkojedubovich-VirtualBox systemd[1]: session-190.scope: Deactivated successfully.
+дек 23 07:30:07 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 190 logged out. Waiting for processes to exit.
+дек 23 07:30:07 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 190.
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox sshd[11343]: Accepted password for user_test from 127.0.0.1 port 37134 ssh2
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox sshd[11343]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 191 of user user_test.
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 191 at /org/freedesktop/login1/session/_3191
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 191 of User user_test.
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox sshd[11343]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 191 logged out. Waiting for processes to exit.
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox systemd[1]: session-191.scope: Deactivated successfully.
+дек 23 07:30:08 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 191.
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox sshd[11384]: Accepted password for user_test from 127.0.0.1 port 37148 ssh2
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox sshd[11384]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 192 of user user_test.
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 192 at /org/freedesktop/login1/session/_3192
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 192 of User user_test.
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox sshd[11384]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 192 logged out. Waiting for processes to exit.
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox systemd[1]: session-192.scope: Deactivated successfully.
+дек 23 07:30:09 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 192.
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox sshd[11424]: Accepted password for user_test from 127.0.0.1 port 37152 ssh2
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox sshd[11424]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 193 of user user_test.
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 193 at /org/freedesktop/login1/session/_3193
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 193 of User user_test.
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox sshd[11424]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox systemd[1]: session-193.scope: Deactivated successfully.
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 193 logged out. Waiting for processes to exit.
+дек 23 07:30:10 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 193.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox sshd[11464]: Accepted password for user_test from 127.0.0.1 port 37164 ssh2
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox sshd[11464]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 194 of user user_test.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 194 at /org/freedesktop/login1/session/_3194
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 194 of User user_test.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox sshd[11464]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd[1]: session-194.scope: Deactivated successfully.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 194 logged out. Waiting for processes to exit.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 194.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox sshd[11503]: Accepted password for user_test from 127.0.0.1 port 34414 ssh2
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox sshd[11503]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 195 of user user_test.
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 195 at /org/freedesktop/login1/session/_3195
+дек 23 07:30:11 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 195 of User user_test.
+

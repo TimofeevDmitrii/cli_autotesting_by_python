@@ -1,0 +1,44 @@
+step_time: 0:00:17.967373 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.54 3.38 1.69 2/605 3889
+
+step_time: 0:00:16.581544 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.95 3.42 1.73 3/605 4337
+
+step_time: 0:00:11.646459 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.59 3.32 1.73 3/606 4780
+
+step_time: 0:00:01.791260 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.59 3.32 1.73 3/606 4900
+
+step_time: 0:00:16.769770 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.51 3.25 1.74 5/605 5542
+
+step_time: 0:00:16.944658 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.33 3.17 1.74 2/605 6184
+
+step_time: 0:00:18.473153 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.37 3.13 1.75 2/603 6947
+
+step_time: 0:00:17.875151 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.32 3.07 1.76 3/605 7672
+
+step_time: 0:00:12.252101 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.90 3.17 1.81 4/605 8154
+
+step_time: 0:00:11.336577 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.69 3.11 1.81 3/604 8636
+
+step_time: 0:00:04.954019 | archive_type: 7z | files_created: 5 | file_size: 1M | proc_load: 2.64 3.09 1.82 4/604 8812
+
+step_time: 0:00:08.812535 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 0.97 1.89 1.68 4/604 9281
+
+step_time: 0:00:09.448912 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 1.53 1.98 1.71 7/609 9730
+
+step_time: 0:00:10.683386 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 2.36 2.14 1.77 5/607 10172
+
+step_time: 0:00:03.272040 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 2.57 2.19 1.79 6/608 10293
+
+step_time: 0:00:17.663611 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 2.93 2.31 1.83 2/607 10936
+
+step_time: 0:00:17.543276 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 3.47 2.46 1.89 2/608 11582
+
+step_time: 0:00:19.908277 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 3.56 2.54 1.93 3/608 12345
+
+step_time: 0:00:16.499571 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 3.28 2.54 1.94 6/608 13066
+
+step_time: 0:00:16.338789 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 5.26 3.04 2.12 6/609 13550
+
+step_time: 0:00:11.280617 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 5.49 3.15 2.17 8/609 14033
+
+step_time: 0:00:14.010010 | archive_type: zip | files_created: 5 | file_size: 1M | proc_load: 5.30 3.23 2.21 6/609 14211
+

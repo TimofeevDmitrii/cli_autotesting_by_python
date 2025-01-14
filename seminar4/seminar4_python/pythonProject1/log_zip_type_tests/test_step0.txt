@@ -1,0 +1,101 @@
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox sshd[8974]: Accepted password for user_test from 127.0.0.1 port 50270 ssh2
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox sshd[8974]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Created slice User Slice of UID 1001.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Starting User Runtime Directory /run/user/1001...
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 133 of user user_test.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Finished User Runtime Directory /run/user/1001.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Starting User Manager for UID 1001...
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: pam_unix(systemd-user:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Queued start job for default target Main User Target.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Created slice User Application Slice.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Created slice User Core Session Slice.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Started Pending report trigger for Ubuntu Report.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Reached target Paths.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Reached target Timers.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Starting D-Bus User Message Bus Socket...
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on GnuPG network certificate management daemon.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on GnuPG cryptographic agent and passphrase cache.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on PipeWire Multimedia System Socket.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on debconf communication socket.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on Sound System.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on REST API socket for snapd user session agent.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on Speech Dispatcher Socket.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Listening on D-Bus User Message Bus Socket.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Reached target Sockets.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Reached target Basic System.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Started User Manager for UID 1001.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Started PipeWire Multimedia Service.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 133 of User user_test.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Started PipeWire Media Session Manager.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Starting Sound Service...
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Started Service for snap application snapd-desktop-integration.snapd-desktop-integration.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 1 users.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Started D-Bus User Message Bus.
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox dbus-daemon[9028]: [session uid=1001 pid=9028] AppArmor D-Bus mediation is enabled
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox dbus-daemon[9028]: [session uid=1001 pid=9028] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.1' (uid=1001 pid=8989 comm="/usr/bin/snap run snapd-desktop-integration " label="unconfined")
+дек 23 07:28:58 kojedubkojedubovich-VirtualBox systemd[8979]: Starting flatpak document portal service...
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire[8986]: mod.rt: RTKit error: org.freedesktop.DBus.Error.AccessDenied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire[8986]: mod.rt: could not set nice-level to -11: Permission denied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox dbus-daemon[9028]: [session uid=1001 pid=9028] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.2' (uid=1001 pid=9038 comm="/usr/libexec/xdg-document-portal " label="unconfined")
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd[8979]: Starting sandboxed app permission store...
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox dbus-daemon[9028]: [session uid=1001 pid=9028] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd[8979]: Started sandboxed app permission store.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox sshd[8974]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox dbus-daemon[9028]: [session uid=1001 pid=9028] Successfully activated service 'org.freedesktop.portal.Documents'
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd[8979]: Started flatpak document portal service.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd[1]: session-133.scope: Deactivated successfully.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 133 logged out. Waiting for processes to exit.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 133.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire-media-session[8987]: mod.rt: RTKit error: org.freedesktop.DBus.Error.AccessDenied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire-media-session[8987]: mod.rt: could not make thread 9021 realtime using RTKit: Permission denied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire[8986]: mod.rt: RTKit error: org.freedesktop.DBus.Error.AccessDenied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox pipewire[8986]: mod.rt: could not make thread 9073 realtime using RTKit: Permission denied
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox dbus-daemon[665]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.406' (uid=1001 pid=8988 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox systemd[1]: Condition check resulted in Bluetooth service being skipped.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:28:59 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Failed to do gtk init. Waiting for a new session with desktop capabilities.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox rtkit-daemon[1790]: Supervising 6 threads of 3 processes of 2 users.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Checking session /org/freedesktop/login1/session/_32...
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox systemd[8979]: Started Sound Service.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox systemd[8979]: Reached target Main User Target.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox systemd[8979]: Startup finished in 1.851s.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox sshd[9047]: Accepted password for user_test from 127.0.0.1 port 50280 ssh2
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox sshd[9047]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 135 of user user_test.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 135 at /org/freedesktop/login1/session/_3135
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 135 of User user_test.
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox sudo[9137]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user_test/p7zip-full.deb
+дек 23 07:29:00 kojedubkojedubovich-VirtualBox sudo[9137]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox sudo[9137]: pam_unix(sudo:session): session closed for user root
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox sshd[9047]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox systemd[1]: session-135.scope: Deactivated successfully.
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 135 logged out. Waiting for processes to exit.
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox systemd[1]: session-135.scope: Consumed 1.250s CPU time.
+дек 23 07:29:04 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 135.
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sshd[9158]: Accepted password for user_test from 127.0.0.1 port 34102 ssh2
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sshd[9158]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 136 of user user_test.
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 136 at /org/freedesktop/login1/session/_3136
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 136 of User user_test.
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sudo[9199]: user_test : PWD=/home/user_test ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sudo[9199]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sudo[9199]: pam_unix(sudo:session): session closed for user root
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox sshd[9158]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox systemd[1]: session-136.scope: Deactivated successfully.
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 136 logged out. Waiting for processes to exit.
+дек 23 07:29:05 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 136.
+дек 23 07:29:06 kojedubkojedubovich-VirtualBox sshd[9201]: Accepted password for user_test from 127.0.0.1 port 34112 ssh2
+дек 23 07:29:06 kojedubkojedubovich-VirtualBox sshd[9201]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:06 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 137 of user user_test.
+дек 23 07:29:06 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 137 at /org/freedesktop/login1/session/_3137
+дек 23 07:29:06 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 137 of User user_test.
+

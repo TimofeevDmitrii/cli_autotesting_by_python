@@ -1,0 +1,31 @@
+дек 23 07:21:24 kojedubkojedubovich-VirtualBox sshd[4131]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:24 kojedubkojedubovich-VirtualBox systemd[1]: session-17.scope: Deactivated successfully.
+дек 23 07:21:24 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 17 logged out. Waiting for processes to exit.
+дек 23 07:21:24 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 17.
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox sshd[4171]: Accepted password for user_test from 127.0.0.1 port 42714 ssh2
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox sshd[4171]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 18 of user user_test.
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 18 of User user_test.
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 18 at /org/freedesktop/login1/session/_318
+дек 23 07:21:25 kojedubkojedubovich-VirtualBox dbus-daemon[665]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+дек 23 07:21:30 kojedubkojedubovich-VirtualBox sshd[4171]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:30 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 18 logged out. Waiting for processes to exit.
+дек 23 07:21:30 kojedubkojedubovich-VirtualBox systemd[1]: session-18.scope: Deactivated successfully.
+дек 23 07:21:30 kojedubkojedubovich-VirtualBox systemd[1]: session-18.scope: Consumed 2.731s CPU time.
+дек 23 07:21:30 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 18.
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox systemd-resolved[466]: Clock change detected. Flushing caches.
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox sshd[4218]: Accepted password for user_test from 127.0.0.1 port 42722 ssh2
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox sshd[4218]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 19 of user user_test.
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 19 at /org/freedesktop/login1/session/_319
+дек 23 07:21:31 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 19 of User user_test.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox sshd[4218]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox systemd[1]: session-19.scope: Deactivated successfully.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 19 logged out. Waiting for processes to exit.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 19.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox sshd[4259]: Accepted password for user_test from 127.0.0.1 port 42730 ssh2
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox sshd[4259]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 20 of user user_test.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 20 of User user_test.
+дек 23 07:21:32 kojedubkojedubovich-VirtualBox snapd-desktop-i[3678]: Detected new session 20 at /org/freedesktop/login1/session/_320
+

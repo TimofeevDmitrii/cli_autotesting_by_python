@@ -1,0 +1,19 @@
+дек 23 07:29:31 kojedubkojedubovich-VirtualBox sshd[10134]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:29:31 kojedubkojedubovich-VirtualBox systemd[1]: session-160.scope: Deactivated successfully.
+дек 23 07:29:31 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 160 logged out. Waiting for processes to exit.
+дек 23 07:29:31 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 160.
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox sshd[10174]: Accepted password for user_test from 127.0.0.1 port 57156 ssh2
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox sshd[10174]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 161 of user user_test.
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 161 at /org/freedesktop/login1/session/_3161
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 161 of User user_test.
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox sshd[10174]: pam_unix(sshd:session): session closed for user user_test
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox systemd[1]: session-161.scope: Deactivated successfully.
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Session 161 logged out. Waiting for processes to exit.
+дек 23 07:29:32 kojedubkojedubovich-VirtualBox systemd-logind[684]: Removed session 161.
+дек 23 07:29:33 kojedubkojedubovich-VirtualBox sshd[10213]: Accepted password for user_test from 127.0.0.1 port 57170 ssh2
+дек 23 07:29:33 kojedubkojedubovich-VirtualBox sshd[10213]: pam_unix(sshd:session): session opened for user user_test(uid=1001) by (uid=0)
+дек 23 07:29:33 kojedubkojedubovich-VirtualBox systemd-logind[684]: New session 162 of user user_test.
+дек 23 07:29:33 kojedubkojedubovich-VirtualBox snapd-desktop-i[9093]: Detected new session 162 at /org/freedesktop/login1/session/_3162
+дек 23 07:29:33 kojedubkojedubovich-VirtualBox systemd[1]: Started Session 162 of User user_test.
+

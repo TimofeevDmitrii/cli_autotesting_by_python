@@ -1,0 +1,22 @@
+# ssh connection params
+host_name: 0.0.0.0
+user_name: user_test
+user_passwd: '2323'
+port_ssh: 22
+
+deb_package_local_folder: p7zip_folder/
+deb_package_destination_folder: /home/user_test/
+deb_package_name: p7zip-full.deb
+
+test_archive_name: test_archive.7z
+bad_archive_name: bad_archive.7z
+test_work_dir_name: /home/user_test/folder_for_testing
+test_files_dir_name: test_files_folder
+test_extract_dir_name: test_extract_folder
+test_out_dir_name: test_out_folder
+created_files_count: 5
+file_name_length: 7
+subfolder_name_length: 8
+file_bs: 1M
+# this key supposed to be used in commands inside tests, can be like "", " -tzip" etc.
+archive_type_key: ''

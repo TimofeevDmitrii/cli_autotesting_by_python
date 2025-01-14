@@ -1,0 +1,10 @@
+test_archive_name: test_archive.zip
+bad_archive_name: bad_archive.zip
+test_work_dir_name: /home/kojedub-kojedubovich/seminars_cli_testing/seminar3/folder_for_testing
+test_files_dir_name: test_files_folder
+test_extract_dir_name: test_extract_folder
+test_out_dir_name: test_out_folder
+created_files_count: 5
+file_bs: 1M
+# this key supposed to be used in commands inside tests, can be like "", " -tzip" etc.
+archive_type_key: ' -tzip'

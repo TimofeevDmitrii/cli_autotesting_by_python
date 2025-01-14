@@ -1,0 +1,5 @@
+- скопировать архив в пайтон-директорию семинара 2
+- mkdir test_files_dir
+- echo something >> test_files_dir/f1.txt
+- mkdir test_extract_dir
+- cp <archive> test_extract_dir/test_archive.7z
